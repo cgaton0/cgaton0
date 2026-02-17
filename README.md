@@ -43,6 +43,7 @@ Clinical survival prediction in pancreatic cancer using Cox regression and neura
 - PyTorch
 - PyCox
 - SHAP
+- Keras
 
 **Data & Visualization**
 - Pandas
