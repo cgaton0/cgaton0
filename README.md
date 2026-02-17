@@ -9,7 +9,7 @@ I am particularly interested in developing robust predictive models, combining s
 ## 🔬 Current Focus
 
 - Survival analysis and neural survival models (Cox-based networks, PyCox)
-- Deep learning with PyTorch
+- Deep learning with PyTorch and Keras
 - Reinforcement learning (DQN, policy-based methods)
 - Predictive modeling and model interpretability (SHAP)
 - SQL for analytical workflows
