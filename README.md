@@ -16,9 +16,22 @@ I am particularly interested in developing robust predictive models, combining s
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-### 🔹 TCGA-PAAD Survival Modeling
+### 🔹 🌦 Deep Learning Weather Forecasting (Jena Climate)
+End-to-end deep learning pipeline for multi-step temperature forecasting using meteorological time series.
+
+- CNN + BiLSTM architecture for multi-step forecasting
+- Sliding window time-series preprocessing pipeline
+- Train/validation/test split with leakage-safe scaling
+- Forecast horizon: 24 hours from 72-hour input window
+- RMSE ≈ 3.9°C, MAE ≈ 3.0°C
+
+🔗 [View Repository](https://github.com/cgaton0/deep-learning-weather-forecasting)
+
+---
+
+### 🔹 🧬 TCGA-PAAD Survival Modeling
 Clinical survival prediction in pancreatic cancer using Cox regression and neural survival networks (PyCox).
 
 - Multi-source clinical data integration (185 patients)
