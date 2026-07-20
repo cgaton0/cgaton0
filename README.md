@@ -1,80 +1,58 @@
 # Carlos Gatón
 
-MSc in Data Science with a strong focus on Machine Learning, survival modeling, and predictive analytics.
+### Data Scientist & Machine Learning Engineer
 
-I am particularly interested in developing robust predictive models, combining statistical methods with deep learning approaches, and applying ML techniques to real-world problems.
+MSc in Data Science focused on turning complex data into reproducible analyses and predictive models. My work combines statistical modeling, machine learning, and deep learning, with particular experience in survival analysis and multistep time-series forecasting.
 
----
+I am currently seeking entry-level opportunities in Data Science and Machine Learning Engineering in Barcelona or remote.
 
-## 🔬 Current Focus
+[LinkedIn](https://www.linkedin.com/in/cgaton0) · [Featured projects](#featured-projects)
 
-- Survival analysis and neural survival models (Cox-based networks, PyCox)
-- Deep learning with PyTorch and Keras
-- Reinforcement learning (DQN, policy-based methods)
-- Predictive modeling and model interpretability (SHAP)
-- SQL for analytical workflows
+## Featured projects
 
----
+### [TCGA-PAAD Survival Modeling](https://github.com/cgaton0/tcga-paad-survival-modeling)
 
-## 🚀 Featured Projects
+End-to-end survival analysis of pancreatic cancer using clinical data from 185 TCGA-PAAD patients.
 
-### 🔹 🌦 Deep Learning Weather Forecasting (Jena Climate)
-End-to-end deep learning pipeline for multi-step temperature forecasting using meteorological time series.
+- Integrated and preprocessed multiple clinical data sources.
+- Compared Kaplan–Meier analysis and Cox regression with a Cox-based neural network built with PyCox and PyTorch.
+- Evaluated predictive performance with the concordance index and explained model predictions with SHAP.
+- Achieved a C-index in the 0.6–0.7 range; the repository includes the complete MSc thesis, notebooks, and trained model artifacts.
 
-- CNN + BiLSTM architecture for multi-step forecasting
-- Sliding window time-series preprocessing pipeline
-- Train/validation/test split with leakage-safe scaling
-- Forecast horizon: 24 hours from 72-hour input window
-- RMSE ≈ 3.9°C, MAE ≈ 3.0°C
+`Python` `Pandas` `Lifelines` `PyTorch` `PyCox` `SHAP`
 
-🔗 [View Repository](https://github.com/cgaton0/deep-learning-weather-forecasting)
+### [Deep Learning Weather Forecasting](https://github.com/cgaton0/deep-learning-weather-forecasting)
 
----
+Reproducible deep-learning pipeline for 24-hour multistep temperature forecasting on the Jena Climate dataset.
 
-### 🔹 🧬 TCGA-PAAD Survival Modeling
-Clinical survival prediction in pancreatic cancer using Cox regression and neural survival networks (PyCox).
+- Built a CNN–BiLSTM model using 72 hours of observations to predict the following 24 hours simultaneously.
+- Implemented leakage-safe preprocessing, temporal splits, feature scaling, sliding windows, training, evaluation, and artifact generation.
+- Structured the project as a modular command-line pipeline with automated data download and configurable preprocessing.
+- Test results: RMSE 3.94 °C, MAE 3.04 °C, correlation 0.906, and R² 0.745.
 
-- Multi-source clinical data integration (185 patients)
-- Kaplan–Meier and Cox proportional hazards modeling
-- Neural survival modeling (Cox-based MLP)
-- Model interpretability with SHAP
-- C-index ≈ 0.6–0.7
+`Python` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `Time Series`
 
-🔗 [View Repository](https://github.com/cgaton0/tcga-paad-survival-modeling)
+## Currently building
 
----
+### [Reinforcement Learning for Blackjack](https://github.com/cgaton0/blackjack-rl)
 
-## 🛠 Tech Stack
+A comparative implementation of tabular reinforcement-learning agents in a stochastic Blackjack environment, with a common evaluation framework for policies and learning behavior.
 
-**Languages & Core Tools**
-- Python
-- SQL
+## Technical toolkit
 
-**Machine Learning**
-- Scikit-learn
-- Lifelines
-- PyTorch
-- PyCox
-- Keras
-- TensorFlow
-- Optuna
+- **Programming and data:** Python, SQL, Pandas, NumPy
+- **Machine learning:** Scikit-learn, feature engineering, model selection, evaluation, Optuna
+- **Deep learning:** PyTorch, TensorFlow, Keras, CNNs, RNNs, Transformers
+- **Specialized methods:** survival analysis, time-series forecasting, reinforcement learning, SHAP
+- **Visualization and BI:** Matplotlib, Seaborn, Plotly, Power BI
+- **Workflow:** Git, GitHub, Jupyter, reproducible project structures
 
-**Data & Visualization**
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Plotly
+## Background
 
----
+- **MSc in Data Science — Universitat Oberta de Catalunya**, completed January 2026
+- Based in **Barcelona, Spain**
+- Available for Data Scientist and Machine Learning Engineer roles
 
-## 📈 Ongoing Work
+## Contact
 
-- Deep learning for time series forecasting
-- Reinforcement learning experiments (Blackjack environment)
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/cgaton0
+[LinkedIn](https://www.linkedin.com/in/cgaton0) · [GitHub](https://github.com/cgaton0)
