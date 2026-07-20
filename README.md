@@ -49,6 +49,6 @@ A comparative implementation of tabular reinforcement-learning agents in a stoch
 
 ## Background
 
-- **MSc in Data Science — Universitat Oberta de Catalunya**, completed January 2026
+- **MSc in Data Science — Universitat Oberta de Catalunya**, completed February 2026
 - Based in **Barcelona, Spain**
 - Available for Data Scientist and Machine Learning Engineer roles
