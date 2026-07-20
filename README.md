@@ -6,7 +6,7 @@ MSc in Data Science focused on turning complex data into reproducible analyses a
 
 I am currently seeking entry-level opportunities in Data Science and Machine Learning Engineering in Barcelona or remote.
 
-[LinkedIn](https://www.linkedin.com/in/cgaton0) · [Featured projects](#featured-projects)
+[LinkedIn](https://www.linkedin.com/in/cgaton0)
 
 ## Featured projects
 
@@ -52,7 +52,3 @@ A comparative implementation of tabular reinforcement-learning agents in a stoch
 - **MSc in Data Science — Universitat Oberta de Catalunya**, completed January 2026
 - Based in **Barcelona, Spain**
 - Available for Data Scientist and Machine Learning Engineer roles
-
-## Contact
-
-[LinkedIn](https://www.linkedin.com/in/cgaton0) · [GitHub](https://github.com/cgaton0)
